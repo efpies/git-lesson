@@ -1,4 +1,9 @@
 public void Main()
 {
-    Console.WriteLine("Sorry for commiting first");
+    Console.WriteLine("Hello, world!");
+}
+
+public void SomethingElse()
+{
+    Console.WriteLine("Something else!");
 }
