@@ -5,5 +5,5 @@ public void Main()
 
 public void SomethingElse()
 {
-    Console.WriteLine("Something else");
+    Console.WriteLine("Something else!");
 }
